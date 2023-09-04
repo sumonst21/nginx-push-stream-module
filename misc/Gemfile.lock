@@ -61,7 +61,7 @@ GEM
       Platform (>= 0.4.0)
       open4 (>= 0.4.0)
     public_suffix (3.0.3)
-    rack (2.0.6)
+    rack (2.2.8)
     rake (10.5.0)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
